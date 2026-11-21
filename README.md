@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mo7Rabie/Mo7Rabie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohamed Rabie
+### Data Analyst | Accountant | Founder of Farm Intelligence
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Business Information Systems student, Mansoura, Egypt
+- Focus: accounting, finance, and data analytics
+- Building Farm Intelligence (Next.js, Supabase)
+
+## Skills
+Excel | SQL Server | Power BI | Python
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/mohamed-rabie-9a00b2386/)
